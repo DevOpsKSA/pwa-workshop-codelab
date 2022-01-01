@@ -13,7 +13,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.
  */
-import swURL from 'sw:../service-worker.js';
+import swURL from 'https://github.com/DevOpsKSA/pwa-workshop-codelab/blob/2e37320447a73472e574fdaa6d088a46d0903d66/service-worker.js';
 
 // Register the service worker
 if ('serviceWorker' in navigator) {
